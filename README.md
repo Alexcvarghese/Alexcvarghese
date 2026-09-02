@@ -1,6 +1,14 @@
-# Hi there, I'm ALEX C VARGHESE! 👋
+<!-- Header Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:3b82f6,100:1e1b4b&height=200&section=header&text=ALEX%20C%20VARGHESE&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
+</p>
 
-An aspiring Software Engineer & **MCA (Master of Computer Applications)** student. I am passionate about Machine Learning, Data Visualization, and Web Development.
+<!-- Animated Typing Text -->
+<p align="center">
+  <a href="https://github.com/ALEX2k5-777">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ALEX+C+VARGHESE+👋;MCA+Student+%7C+Aspiring+Software+Engineer;Machine+Learning+%26+Data+Science;Building+Modern+Web+Applications" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -16,6 +24,15 @@ An aspiring Software Engineer & **MCA (Master of Computer Applications)** studen
 - 🌱 Exploring **Deep Learning, Full-Stack Web Development, and System Design**
 - 💬 Ask me about **Python, Machine Learning, Streamlit, and JavaScript**
 - ⚡ Fun fact: **Code in the morning, vibe to music player projects by night 🎧**
+
+---
+
+### 🏆 GitHub Trophies & Achievements
+<p align="center">
+  <a href="https://github.com/ALEX2k5-777" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=ALEX2k5-777&theme=radical&no-frame=true&no-bg=true&column=4" alt="ALEX2k5-777 Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -111,4 +128,10 @@ An aspiring Software Engineer & **MCA (Master of Computer Applications)** studen
   <a href="https://github.com/ALEX2k5-777" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
 </p>
