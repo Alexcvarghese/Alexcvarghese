@@ -1,4 +1,4 @@
-# Hi there, I'm Alex! 👋
+# Hi there, I'm ALEX C VARGHESE! 👋
 
 An aspiring Software Engineer & **MCA (Master of Computer Applications)** student. I am passionate about Machine Learning, Data Visualization, and Web Development.
 
@@ -92,13 +92,13 @@ An aspiring Software Engineer & **MCA (Master of Computer Applications)** studen
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/<YOUR_LINKEDIN_USERNAME>" target="_blank">
+  <a href="https://www.linkedin.com/in/alex-c-varghese-038581358/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:<YOUR_EMAIL_ADDRESS>" target="_blank">
+  <a href="mailto:alexcvarghese777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://leetcode.com/<YOUR_LEETCODE_USERNAME>" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
+  <a href="https://github.com/ALEX2k5-777" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
