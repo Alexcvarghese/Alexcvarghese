@@ -80,11 +80,21 @@ An aspiring Software Engineer & **MCA (Master of Computer Applications)** studen
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALEX2k5-777&show_icons=true&theme=radical&hide_border=true" alt="ALEX2k5-777 GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX2k5-777&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/ALEX2k5-777" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=ALEX2k5-777&show_icons=true&theme=radical&hide_border=true" alt="ALEX2k5-777 GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/ALEX2k5-777?tab=repositories" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX2k5-777&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ALEX2k5-777" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALEX2k5-777&theme=radical&hide_border=true" alt="ALEX2k5-777 GitHub Streak" width="97%" />
+  </a>
 </p>
 
 ---
