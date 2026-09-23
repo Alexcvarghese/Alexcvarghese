@@ -13,7 +13,7 @@
 ---
 
 ### 🎓 Education & Background
-- 🏫 **MCA (Master of Computer Applications)** - *(Expected 2026)*
+- 🏫 **MCA (Master of Computer Applications)** - *(2026 - 2028)*
 - 🎓 **Bachelor's Degree (BCA / Computer Science)**
 
 ---
