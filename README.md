@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <a href="https://github.com/ALEX2k5-777">
+  <a href="https://github.com/Alexcvarghese">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+ALEX+C+VARGHESE+👋;MCA+Student+%7C+Aspiring+Software+Engineer;Machine+Learning+%26+Data+Science;Building+Modern+Web+Applications" alt="Typing SVG" />
   </a>
 </p>
@@ -29,8 +29,8 @@
 
 ### 🏆 GitHub Trophies & Achievements
 <p align="center">
-  <a href="https://github.com/ALEX2k5-777" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=ALEX2k5-777&theme=radical&no-frame=true&no-bg=true&column=4" alt="ALEX2k5-777 Trophies" />
+  <a href="https://github.com/Alexcvarghese" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Alexcvarghese&theme=radical&no-frame=true&no-bg=true&column=4" alt="Alexcvarghese Trophies" />
   </a>
 </p>
 
@@ -72,7 +72,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   </a>
-  <a href="https://github.com/ALEX2k5-777" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Alexcvarghese" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -84,14 +84,14 @@
 
 ### 📂 Featured Projects
 
-#### 🌿 **[Air Quality Model (AQI Predictor)](https://github.com/ALEX2k5-777/Air-Quality-Model-)**
+#### 🌿 **[Air Quality Model (AQI Predictor)](https://github.com/Alexcvarghese/Air-Quality-Model-)**
 - **Description**: An interactive Streamlit web application that forecasts air quality index based on environmental parameters and atmospheric pollutants.
 - **Key Features**:
   - Interactive web inputs with real-time prediction output.
   - Machine learning modeling paired with dynamic data visualizations.
 - **Tech Stack**: `Python`, `Streamlit`, `Jupyter Notebook`, `Machine Learning`
 
-#### 🎵 **[Alexa Player](https://github.com/ALEX2k5-777/alexa-player)** / **[Vibe Player](https://github.com/ALEX2k5-777/vibeplayer)**
+#### 🎵 **[Alexa Player](https://github.com/Alexcvarghese/alexa-player)** / **[Vibe Player](https://github.com/Alexcvarghese/vibeplayer)**
 - **Description**: Lightweight, web-based audio player applications for seamless playback and playlist management.
 - **Tech Stack**: `JavaScript`, `HTML5`, `CSS3`
 
@@ -100,17 +100,17 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/ALEX2k5-777" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=ALEX2k5-777&show_icons=true&theme=radical&hide_border=true" alt="ALEX2k5-777 GitHub Stats" width="48%" />
+  <a href="https://github.com/Alexcvarghese" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alexcvarghese&show_icons=true&theme=radical&hide_border=true" alt="Alexcvarghese GitHub Stats" width="48%" />
   </a>
-  <a href="https://github.com/ALEX2k5-777?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALEX2k5-777&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/Alexcvarghese?tab=repositories" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexcvarghese&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ALEX2k5-777" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALEX2k5-777&theme=radical&hide_border=true" alt="ALEX2k5-777 GitHub Streak" width="97%" />
+  <a href="https://github.com/Alexcvarghese" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexcvarghese&theme=radical&hide_border=true" alt="Alexcvarghese GitHub Streak" width="97%" />
   </a>
 </p>
 
@@ -125,7 +125,7 @@
   <a href="mailto:alexcvarghese777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://github.com/ALEX2k5-777" target="_blank">
+  <a href="https://github.com/Alexcvarghese" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
